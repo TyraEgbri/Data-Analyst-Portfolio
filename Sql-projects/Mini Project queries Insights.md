@@ -40,8 +40,7 @@ Several employees are over 40, highlighting the importance of succession plannin
 
 📂 Files Included
 
-queries.sql – All SQL queries used in the analysis
+Mini Project queries.sql – All SQL queries used in the analysis
 
 Screenshots of query results
-
-Project insights
+(Basic queries, Grouping By, Sorting and Limiting word document files)
