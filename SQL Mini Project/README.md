@@ -6,7 +6,7 @@
 
 This mini project analyses employee demographic data to answer common HR-related business questions using SQL.
 
-## 🧠 Business Questions
+##  Business Questions
 
 How many employees are in the organisation?
 
@@ -18,7 +18,7 @@ How does age differ by gender?
 
 Who are the oldest employees in the organisation?
 
-## 🛠️ SQL Skills Demonstrated
+##  SQL Skills Demonstrated
 
 Data exploration
 
@@ -30,7 +30,7 @@ Grouping with GROUP BY
 
 Sorting and limiting results using ORDER BY and LIMIT
 
-## 📌 Key Insights
+##  Key Insights
 
 The workforce consists of 11 employees, with males forming the majority.
 
@@ -38,7 +38,7 @@ The average employee age is around 40, indicating a mid-career workforce.
 
 Several employees are over 40, highlighting the importance of succession planning.
 
-## 📂 Files Included
+##  Files Included
 
 Mini Project queries.sql – All SQL queries used in the analysis
 
