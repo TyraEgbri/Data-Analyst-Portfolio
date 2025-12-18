@@ -81,7 +81,7 @@ SELECT s.dept_id, SUM(s.salary) AS total_salary
 FROM parks_and_recreation.employee_demographics d
 JOIN parks_and_recreation.employee_salary s
 ON d.employee_id = s.employee_id
-GROUP BY dept_id
-ORDER BY salary DESC
+GROUP BY s.dept_id
+ORDER BY total_salary DESC
 LIMIT 1;
 
