@@ -79,8 +79,6 @@ The project uses **two tables**:
 - **Department Payroll:** Identifying high-cost departments helps with budgeting and resource allocation.
 - **Recommendation:** HR and finance teams should run these queries regularly to monitor pay equity and departmental payroll costs.
 
----
 
-## File Structure
 
 
